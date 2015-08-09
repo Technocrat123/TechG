@@ -1,2 +1,3 @@
 # TechG
-Fututre projects
+Fututre project
+Application Developer
